@@ -1,0 +1,33 @@
+name: watch_bash
+description: A game for WearOS made with Flutter and Flame.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flame: ^1.6.0
+  flame_forge2d: ^0.12.5
+  equatable: ^2.0.5
+  flame_bloc: ^1.8.2
+  bloc: ^8.1.1
+  flutter_bloc: ^8.1.2
+  wearable_rotary: ^2.0.0
+  hydrated_bloc: ^9.1.0
+  path_provider: ^2.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
