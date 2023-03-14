@@ -1,11 +1,10 @@
 <p align="center">
-    <img src="media/logo.png" height="250">
+    <img src="media/logo.png" height="200">
 </p>
 
 
 <p align="center">
-    <a href="https://github.com/KyleKun"><img src="https://img.shields.io/badge/made%20by-KyleKun-ff6462"></a>
-    <a href="https://github.com/KyleKun/watch_bash/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KyleKun/watch_bash?style=flat"></a>
+     <a href="https://github.com/KyleKun"><img src="https://img.shields.io/badge/made%20by-KyleKun-ff6462"></a>
      <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg"></a>
      <a href="https://github.com/KyleKun/watch_bash/stargazers"><img src="https://img.shields.io/github/stars/KyleKun/watch_bash?style=flat"></a>
 </p>
@@ -15,7 +14,7 @@
 <p align="center">🕹️ A game for WearOS made with Flutter and Flame.</p>
 
 <p align="center">
-  <img src="media/trailer.gif" width="70%">
+  <img src="media/trailer.gif" width="75%">
   <a href='https://play.google.com/store/apps/details?id=com.kylekun.watch_bash&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="50%"/></a>
 </p>
 
