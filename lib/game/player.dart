@@ -24,7 +24,7 @@ class Player extends BodyComponent<WatchBashArena>
 
     final shape = PolygonShape()
       ..setAsBox(
-        1.5,
+        2.0,
         0.2,
         Vector2(0.0, 0.0),
         0.0,

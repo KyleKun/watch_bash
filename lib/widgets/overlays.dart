@@ -193,7 +193,7 @@ class CreditsOverlay extends StatelessWidget {
                     ),
                   ),
                   const Text(
-                    'Powered by Flutter & Flame\nCopyright © Caio Pedroso, 2023\nversion 1.0',
+                    'Powered by Flutter & Flame\nCopyright © Caio Pedroso, 2023\nversion 1.0.1',
                     style: TextStyle(
                       fontSize: 7,
                       color: Colors.white,
@@ -223,10 +223,10 @@ class GameWonOverlay extends StatelessWidget {
         statsCubit.won();
         gameCubit.reset();
       },
-      child: SizedBox.expand(
+      child: const SizedBox.expand(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children: [
             Text(
               'You won!',
               style: TextStyle(
@@ -265,10 +265,10 @@ class GameOverOverlay extends StatelessWidget {
         statsCubit.lost();
         gameCubit.reset();
       },
-      child: SizedBox.expand(
+      child: const SizedBox.expand(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children: [
             Text(
               'Game over',
               style: TextStyle(
